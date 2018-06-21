@@ -1,2 +1,2 @@
 # Calculator
-Simple Calculator working done using java
+Simple Calculator working using Android Studio 3.1.0 with Sdk version 26
